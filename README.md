@@ -1,7 +1,6 @@
 ## Welcome to Shishir Timsina's GitHub page
 
-You can click [here](www.linkedin.com/in/shishir-timsina-03466018a) to connect to my LinkedIn page.
-
+You can click [LinkedIn](www.linkedin.com/in/shishir-timsina-03466018a) to connect to my LinkedIn page
 
 ### Projects
 
