@@ -1,27 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Shishir Timsina's GitHub page
 
-You can use the [editor on GitHub](https://github.com/sht99/sht99.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use (www.linkedin.com/in/shishir-timsina-03466018a) to connect to my LinkedIn page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+work in progress 
+will add more 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
