@@ -6,7 +6,7 @@
 
 
 You can click [here][1] to connect to my LinkedIn page<br><br>
-
+<br>
 ### Projects
 
 ****work in progress will add more ****
