@@ -7,6 +7,3 @@ You can use (www.linkedin.com/in/shishir-timsina-03466018a) to connect to my Lin
 
 work in progress 
 will add more 
-
-
-[Link](url) and ![Image](src)
