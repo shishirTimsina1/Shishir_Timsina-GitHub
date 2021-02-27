@@ -11,4 +11,4 @@ You can click [here][1] to connect to my LinkedIn page
 work in progress 
 will add more 
 
-[1]: <www.linkedin.com/in/shishir-timsina-03466018a>
+[1]: <https://www.linkedin.com/in/shishir-timsina-03466018a>
