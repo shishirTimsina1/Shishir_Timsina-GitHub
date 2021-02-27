@@ -4,8 +4,7 @@ You can click [here][1] to connect to my LinkedIn page
 
 ### Projects
 
-work in progress 
-will add more 
+****work in progress will add more ****
 
 [Binary Search Tree](https://github.com/sht99/BinarySearchTree)
 
