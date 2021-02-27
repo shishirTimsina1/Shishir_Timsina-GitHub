@@ -5,5 +5,7 @@ You can use (www.linkedin.com/in/shishir-timsina-03466018a) to connect to my Lin
 
 ### Projects
 
+[Binary Search Tree](https://sht99.github.io/BinarySearchTree/)
+
 work in progress 
 will add more 
