@@ -11,6 +11,6 @@ You can click *[here][1]* to connect to my LinkedIn page<br><br>
 
 * [Basic Webscraping for Graphics cards](https://github.com/sht99/Webscraping2)
 
-* [Neutral] (Social Media app, not deployed)
+* Neutral (Social Media app, not deployed)
 
 [1]: <https://www.linkedin.com/in/shishir-timsina-03466018a>
