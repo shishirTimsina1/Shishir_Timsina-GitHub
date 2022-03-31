@@ -16,7 +16,7 @@ You can click *[here][1]* to connect to my LinkedIn page<br><br>
 
 ## Academic
   * [Software QA](https://github.com/sht99/Software-QA)
-  * [Computer Vision](/)
+  * [Computer Vision](https://github.com/sht99/cs1674)
   * [Web Dev](/)
 
 
