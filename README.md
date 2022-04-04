@@ -10,9 +10,10 @@ You can click *[here][1]* to connect to my LinkedIn page<br><br>
   * [Software QA](https://github.com/sht99/Software-QA)
   
   * [Computer Vision](https://github.com/sht99/cs1674)
+  * [PHP](http://sht99.infinityfreeapp.com/cs334/lab9/main.php)[2](http://sht99.infinityfreeapp.com)
   
   * [Web Dev](/)
-  * [Database Management]()
+  * [Database Management](/)
   
 ## **Projects**
 
