@@ -10,9 +10,9 @@ You can click *[here][1]* to connect to my LinkedIn page<br><br>
   * [Software QA](https://github.com/sht99/Software-QA)
   
   * [Computer Vision](https://github.com/sht99/cs1674)
-  * [PHP](http://sht99.infinityfreeapp.com/cs334/lab9/main.php)
+  * [PHP](https://github.com/sht99/PHP)
   
-  * [Web Dev](https://github.com/sht99/PHP)  
+  * [Web Dev](https://github.com/sht99/webDev)  
   * [more Web Dev](https://github.com/sht99/webDev)
   * [Database Management](https://github.com/sht99/DatabaseManagement/tree/main)
   
@@ -22,6 +22,7 @@ You can click *[here][1]* to connect to my LinkedIn page<br><br>
 
 * Neutral (Social Media app)[github link](https://github.com/sht99/TeamNeutral)
 * Animated Webpage with Three.js [github](https://github.com/sht99/Portfolio/tree/master)
+* [Moon Travel Assistant](http://sht99.infinityfreeapp.com/cs334/final/main.php)
 * [mini IMBb](https://github.com/sht99/miniIMBb)
 * [Binary Search Tree](https://github.com/sht99/BinarySearchTree)
 * [Basic Webscraping for Graphics cards](https://github.com/sht99/Webscraping2)
