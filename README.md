@@ -3,6 +3,7 @@
 # **Welcome to Shishir Timsina's GitHub page** <br><br>
 You can click *[here][1]* to connect to my LinkedIn page<br><br>
 <br>
+https://shishirtimsina1.github.io/Shishir_Timsina-GitHub/ 
 
 
 ## **Academic**
