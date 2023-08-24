@@ -8,7 +8,7 @@ https://shishirtimsina1.github.io/Shishir_Timsina-GitHub/
 
 ## **Work Experience**
 * DevSecOps
-* Cloud Engieneering
+* Cloud Engieneering (AWS)
 
 ## **Academic**
 
