@@ -6,16 +6,21 @@ You can click *[here][1]* to connect to my LinkedIn page<br><br>
 https://shishirtimsina1.github.io/Shishir_Timsina-GitHub/ 
 
 
+## **Work Experience**
+* DevSecOps
+* Cloud Engieneering
+
 ## **Academic**
 
   * [Software QA](https://github.com/sht99/Software-QA)
-  
+  * [Database Management](https://github.com/sht99/DatabaseManagement/tree/main)
+    
   * [Computer Vision](https://github.com/sht99/cs1674)
   * [PHP](https://github.com/sht99/PHP)
   
   * [Web Dev](https://github.com/sht99/webDev)  
   * [more Web Dev](https://github.com/sht99/webDev)
-  * [Database Management](https://github.com/sht99/DatabaseManagement/tree/main)
+ 
   
 ## **Projects**
 
