@@ -12,6 +12,8 @@ https://shishirtimsina1.github.io/Shishir_Timsina-GitHub/
 
 ## **Academic**
 
+  * [Machine Learning](internship, private code)
+  
   * [Software QA](https://github.com/sht99/Software-QA)
   * [Database Management](https://github.com/sht99/DatabaseManagement/tree/main)
     
@@ -24,7 +26,7 @@ https://shishirtimsina1.github.io/Shishir_Timsina-GitHub/
   
 ## **Projects**
 
-**in progress**
+* CGI Text Classification Machine Learning Project (private)
 
 * Neutral (Social Media app)[github link](https://github.com/sht99/TeamNeutral)
 * Animated Webpage with Three.js [github](https://github.com/sht99/Portfolio/tree/master)
