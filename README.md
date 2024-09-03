@@ -12,7 +12,7 @@ https://shishirtimsina1.github.io/Shishir_Timsina-GitHub/
 
 ## **Academic**
 
-  * [Machine Learning](internship, private code)
+  * [Machine Learning]  (Internship, Private code)
   
   * [Software QA](https://github.com/sht99/Software-QA)
   * [Database Management](https://github.com/sht99/DatabaseManagement/tree/main)
